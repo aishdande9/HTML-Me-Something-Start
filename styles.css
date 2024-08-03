@@ -1,1 +1,25 @@
 /* Write your CSS here! */
+body{
+    margin : 8px;
+    display: block;
+ }
+ #mainHeading {
+    background-color: red;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    text-align: center;
+    color: white;
+ }
+ .funParagraph{
+   background-color: green;
+   color: white;
+   padding-top: 10px;
+   padding-right: 10px;
+   padding-bottom: 10px;
+   padding-left: 10px;
+   
+
+ }
+
